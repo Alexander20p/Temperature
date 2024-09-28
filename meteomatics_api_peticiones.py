@@ -3,9 +3,9 @@ from datetime import datetime, date, time, timezone
 import datetime as dt
 import pandas as pd
 def pedir_data():
-    toledo = [(39.88293123790623, -3.9726402628653656)]
-    nombre = "_crespo_alex"
-    contraseña = "36Jr4S2pbV"
+    ubicaion = []
+    nombre = "User"
+    contraseña = "Password"
     interval = dt.timedelta(hours=3)
     parameters = ['t_2m:C',"sunrise:sql","uv:idx","precip_1h:mm","msl_pressure:hPa","wind_speed_10m:ms","wind_dir_10m:d"]
     startdate = dt.datetime.now(timezone.utc).replace(second=0, microsecond=0)
