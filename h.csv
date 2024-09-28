@@ -1,0 +1,2 @@
+lat,lon,validdate,t_2m:C,sunrise:sql,uv:idx,precip_1h:mm,msl_pressure:hPa,wind_speed_10m:ms,wind_dir_10m:d
+39.88293123790623,-3.9726402628653656,2024-09-28 15:04:00+00:00,22.6,2024-09-28 06:10:00,2.0,0.0,1020.8,2.3,52.1
